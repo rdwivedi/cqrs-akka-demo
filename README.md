@@ -1,4 +1,4 @@
-# Database Setup Instructions
+## Database Setup Instructions
 
 ### create two schemas
 * merchant
